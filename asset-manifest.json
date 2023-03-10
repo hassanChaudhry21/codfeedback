@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codfeedback/static/css/main.c0f3ab81.css",
+    "main.js": "/codfeedback/static/js/main.4411ecfa.js",
+    "index.html": "/codfeedback/index.html",
+    "main.c0f3ab81.css.map": "/codfeedback/static/css/main.c0f3ab81.css.map",
+    "main.4411ecfa.js.map": "/codfeedback/static/js/main.4411ecfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f3ab81.css",
+    "static/js/main.4411ecfa.js"
+  ]
+}
